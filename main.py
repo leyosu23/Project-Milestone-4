@@ -2,7 +2,11 @@ from src.services import LibraryService
 import sys
 
 def demo():
+<<<<<<< HEAD
     print("=" * 1)
+=======
+    print("=" * 2)
+>>>>>>> develop2
     print("BookKeeper - Library Management System")
     print("Architecture: 4+1 View Model Implementation")
     print("=" * 60)
